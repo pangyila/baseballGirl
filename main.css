@@ -8,7 +8,7 @@ body{
 	font-family: arial,宋体,serif;
 	font-size: 12px;
 	color: #534616;
-	background: #F9F0CF url(../img/header.jpg) repeat-x left top;
+	background: #ffcce6 url(../img/header.jpg) repeat-x left top;
 	height: 180px;
 }
 #wrapper{
@@ -113,9 +113,10 @@ ul{
 .title{
 	width: 100%;
 	height: 50px;
-	background: #D5E2CB;
+	/* background: #D5E2CB; */
+	background:  #F9F0CF;
 	line-height: 50px;
-	text-indent: 20px;//左缩进
+	text-indent: 20px;
 }
 .content{
 	padding-left: 20px;
